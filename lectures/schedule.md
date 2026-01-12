@@ -9,15 +9,6 @@ The first half of the class will consist of four modules:
 * **Module 3: Quality of Service / Quality of Experience:** An examination of how QoS evolved into QoE and how instrumentation is undertaken to evaluate QoS / QoE within a network
 * **Module 4: Wireless:** Fundamentals of how WiFi and cellular have evolved as exploring ad hoc networking
 
-Starting with the second module and beyond, specific lectures will have slots for student-led presentations where a contemporary research paper will be presented by one or more students in the class.  The topic will be loosely aligned with recently covered material or the topics in that module.
-
-Noted assignments will include:
-
-* The in-class presentation as noted above
-* An in-class mid-term exam to be held on March 4th - open note
-* A course project proposal due at the end of Module 3
-* A literature survey on the three primary content modules due just before spring break
-
 |**Module**|**Week**|**Lecture**|**Day**|**Content**|**Notes**|
 |:---:|:---:|:---:|:---:|:---|:---|
 | 1 | 1 | 1 | 01-12 M | Introduction - Internet | |
@@ -35,9 +26,22 @@ Noted assignments will include:
 | 4 | 7 | 12 | 02-23 M | WiFi - Fundamentals + Evolution | |
 | 4 | 7 | 13 | 02-25 W | Cellular - Fundamentals + Evolution (3G, 4G, 5G) | |
 | 4 | 8 | 14 | 03-02 M | Ad Hoc Networking | |
-| 4 | 8 |  | 03-04 W | Mid-Term Exam | |
+|   | 8 |  | 03-04 W | Mid-Term Exam | |
 | | | | 03-09 M | Spring Break - No Class | |
 | | | | 03-11 W | Spring Break - No Class | |
+
+Starting with the second module and beyond, various lectures will have a slot at the start of lecture for a student-led presentation where a contemporary research paper will be presented by one or more students in the class (approx. 5-10 minutes).  The topic will be loosely aligned with recently or soon to be covered materials.
+
+Noted assignments will include:
+
+* The in-class presentation as noted above
+* An in-class mid-term exam to be held on March 4th - open note
+* A course project proposal due at the end of Module 3
+* A literature survey on the three primary content modules (2-4) due just before spring break
+* Three homework items (to be done individually)
+   * Homework 1: GitHub Repository
+   * Homework 2: Testing - Ookla Speedtest, Cloudflare
+   * Homework 3: pcap capture and parsing - Python or C++
 
 ## Second Half
 
