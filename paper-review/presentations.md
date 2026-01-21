@@ -56,4 +56,4 @@ It is also expected that even if you are auditing the course that you do select 
 | 3 | 6 | 11 | 02-18 W | Multimedia / Adaptation - DASH and beyond | OPEN |
 | 4 | 7 | 12 | 02-23 M | WiFi - Fundamentals + Evolution | OPEN |
 | 4 | 7 | 13 | 02-25 W | Cellular - Fundamentals + Evolution (3G, 4G, 5G) | OPEN |
-| 4 | 8 | 14 | 03-02 M | Ad Hoc Networking | |
+| 4 | 8 | 14 | 03-02 M | Ad Hoc Networking | OPEN |
