@@ -15,7 +15,6 @@ Now onto the still cold, plenty of snow edition.  On Monday, we looked at CUBIC 
 
 * This handout
 * [Homework 3](../../hw/hw3.md)
-* Project Presentations
 * [Course Project](../../project/overview.md)
 
 ## Key Points
