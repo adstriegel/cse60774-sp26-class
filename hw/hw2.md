@@ -1,6 +1,6 @@
 # Homework 2 - Instrumentation
 
-**Due**: Friday, January 30th at 5 PM
+**Due**: Friday, January 30th
 **Group**: To be completed invididually
 **Value**: 15 points (Homework)
 
