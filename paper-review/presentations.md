@@ -48,7 +48,7 @@ It is also expected that even if you are auditing the course that you do select 
 
 |**Module**|**Week**|**Lecture**|**Day**|**Content**|**Presenter**|
 |:---:|:---:|:---:|:---:|:---|:---|
-| 2 | 4 | 6 | 02-02 M | Network Assisted Congestion Control - ECN, L4S | OPEN |
+| 2 | 4 | 6 | 02-02 M | Network Assisted Congestion Control - ECN, L4S | Saeid |
 | 2 | 4 | 7 | 02-04 W | Congestion Control - AI/ML Based | OPEN |
 | 3 | 5 | 8 | 02-09 M | Quality of Service / Active Queue Management | OPEN |
 | 3 | 5 | 9 | 02-11 W | QoS Architectures - IntServ, DiffServ, Policing | OPEN |
