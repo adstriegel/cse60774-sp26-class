@@ -50,10 +50,10 @@ It is also expected that even if you are auditing the course that you do select 
 |:---:|:---:|:---:|:---:|:---|:---|
 | 2 | 4 | 6 | 02-02 M | Network Assisted Congestion Control - ECN, L4S | Saeid |
 | 2 | 4 | 7 | 02-04 W | Congestion Control - AI/ML Based | OPEN |
-| 3 | 5 | 8 | 02-09 M | Quality of Service / Active Queue Management | OPEN |
+| 3 | 5 | 8 | 02-09 M | Quality of Service / Active Queue Management | Rana |
 | 3 | 5 | 9 | 02-11 W | QoS Architectures - IntServ, DiffServ, Policing | OPEN |
-| 3 | 6 | 10 | 02-16 M | Quality of Experience, QoS / QoE to Practice | OPEN |
+| 3 | 6 | 10 | 02-16 M | Quality of Experience, QoS / QoE to Practice | Rana |
 | 3 | 6 | 11 | 02-18 W | Multimedia / Adaptation - DASH and beyond | OPEN |
-| 4 | 7 | 12 | 02-23 M | WiFi - Fundamentals + Evolution | OPEN |
+| 4 | 7 | 12 | 02-23 M | WiFi - Fundamentals + Evolution | Will |
 | 4 | 7 | 13 | 02-25 W | Cellular - Fundamentals + Evolution (3G, 4G, 5G) | OPEN |
 | 4 | 8 | 14 | 03-02 M | Ad Hoc Networking | OPEN |
