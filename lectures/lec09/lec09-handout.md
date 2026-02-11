@@ -36,7 +36,7 @@ There is a survey for the class and for course feedback that will be posted via 
 * Explain the core concepts with respect to Integrated Services.
 * How is RSVP related to IntServ?
 * Explain the core concepts with respect to Differentiated Services.
-* Compare / contrast: DSCP, BB, EF, AF, BE, Ingress, Egress, PHB.
+* Compare / contrast: DSCP, BB, EF, AF, BE, Ingress, Egress, Edge Router, Core Router, PHB.
 * Why is end-to-end QoS hard?
 
 ## Schedule
