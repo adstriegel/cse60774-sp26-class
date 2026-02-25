@@ -38,9 +38,8 @@ Beyond 3GPP Release 15](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber
 
 | **Date** | **Item** | **Topic** |
 |---|---|---|
-| 02-25 M | Lecture 12 | Wi-Fi Evolution |
-| 02-25 M | | Student Paper: Will, Ryan |
 | 02-27 W | Lecture 13 | Cellular Evolution |
 | 02-27 W | | Student Paper: Ryan |
 | 03-02 M | Lecture 13 | Ad Hoc Networks |
+| 03-02 M | | Student Papers: Obi, Michael |
 | 03-04 W | Lecture 14 | Mid-Term Exam |
