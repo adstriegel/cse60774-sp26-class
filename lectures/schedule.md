@@ -52,7 +52,6 @@ The second half will focus on applied aspects of networking at scale.
 * **Module 7: Contemporary Topics:** Software defined networking (SDN), datacenter networking, mesh networking
 * **Module 8: Project Presentations:** Final project presentations
 
-
 |**Module**|**Week**|**Lecture**|**Day**|**Content**|**Notes**|
 |:---:|:---:|:---:|:---:|:---|:---|
 | 5 | 9 | 15 | 03-16 M | Tutorial - Routing / DNS / Anycast | Mid-Term Exam Return |
