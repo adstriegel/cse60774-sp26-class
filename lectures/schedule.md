@@ -45,12 +45,31 @@ Noted assignments will include:
 
 ## Second Half
 
-The second half of the class will be posted roughly halfway through the first part of the semester.  The tentative topic / module list is as follows:
+The second half will focus on applied aspects of networking at scale.
 
-* **Module 5: Content Distribution:** Coverage of multicast, content distribution networks (CDNs), named-data networking, and intent-based networking
+* **Module 5: Content Distribution:** Routing, DNS, ICN / NDN
 * **Module 6: Cyber-Physical Systems:** Sensor networks, Internet of Things, edge computing, vehicular networks, interim student presentations
 * **Module 7: Contemporary Topics:** Software defined networking (SDN), datacenter networking, mesh networking
 * **Module 8: Project Presentations:** Final project presentations
+
+
+|**Module**|**Week**|**Lecture**|**Day**|**Content**|**Notes**|
+|:---:|:---:|:---:|:---:|:---|:---|
+| 5 | 9 | 15 | 03-16 M | Tutorial - Routing / DNS / Anycast | Mid-Term Exam Return |
+| 5 | 9 | 16 | 03-18 W | Content Distribution at Scale | |
+| 5 | 10 | 17 | 03-23 M | [Guest Visitor - Mathias Guille](https://www.linkedin.com/in/mathiasguille/) | |
+| 5 | 10 | 18 | 03-25 W | Information Centric Networks, Named Data Networking | |
+
+| 6 | 11 | 19 | 03-30 M | Tutorial - Sensor Networks | |
+| 6 | 11 | 20 | 04-01 W | Edge Computing | |
+| 6 | 12 | | 04-06 M | No Class - Easter Monday | |
+| 6 | 12 | 21 | 04-08 W | Student Presentations - Interim Results | |
+| 6 | 13 | 22 | 04-13 M | Vehicular Networks | |
+| 7 | 13 | 23 | 04-15 W | Software Defined Networking | |
+| 7 | 14 | 24 | 04-20 M | Security - Intrusion Prevention | |
+| 7 | 14 | 25 | 04-22 W | Security - Authentication / Certificates | |
+| 7 | 15 | 26 | 04-26 M | Security - DDoS / Network Attacks | |
+| 8 | 15 | 27 | 04-28 W | Project Presentations | Final Exam Released |
 
 Noted assignments will include:
 
