@@ -58,7 +58,6 @@ The second half will focus on applied aspects of networking at scale.
 | 5 | 9 | 16 | 03-18 W | Content Distribution at Scale | |
 | 5 | 10 | 17 | 03-23 M | [Guest Visitor - Mathias Guille](https://www.linkedin.com/in/mathiasguille/) | |
 | 5 | 10 | 18 | 03-25 W | Information Centric Networks, Named Data Networking | |
-
 | 6 | 11 | 19 | 03-30 M | Tutorial - Sensor Networks | |
 | 6 | 11 | 20 | 04-01 W | Edge Computing | |
 | 6 | 12 | | 04-06 M | No Class - Easter Monday | |
