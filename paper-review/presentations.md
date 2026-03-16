@@ -58,3 +58,7 @@ It is also expected that even if you are auditing the course that you do select 
 | 4 | 7 | 13 | 02-25 W | Cellular - Fundamentals + Evolution (3G, 4G, 5G) | OPEN |
 | 4 | 8 | 14 | 03-02 M | Ad Hoc Networking | Obi, Michael |
 | 4 | 8 | N/A | 03-04 W | Mid-Term Exam | N/A |
+| 5 | 9 | 15 | 03-16 M | Overview - CDNs | None |
+| 5 | 9 | 16 | 03-18 W | Scalable CDNs | OPEN |
+| 6 | 10 | 17 | 03-23 M | Guest Speaker | None |
+| 6 | 10 | 18 | 03-25 W | ICN / NDN | None |
