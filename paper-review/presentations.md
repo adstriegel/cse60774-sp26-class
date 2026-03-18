@@ -60,5 +60,15 @@ It is also expected that even if you are auditing the course that you do select 
 | 4 | 8 | N/A | 03-04 W | Mid-Term Exam | N/A |
 | 5 | 9 | 15 | 03-16 M | Overview - CDNs | None |
 | 5 | 9 | 16 | 03-18 W | Scalable CDNs | OPEN |
-| 6 | 10 | 17 | 03-23 M | Guest Speaker | None |
-| 6 | 10 | 18 | 03-25 W | ICN / NDN | None |
+| 5 | 10 | 17 | 03-23 M | Guest Speaker | None |
+| 5 | 10 | 18 | 03-25 W | ICN / NDN | OPEN (1x) |
+| 6 | 11 | 19 | 03-30 M | Tutorial - Sensor Networks | OPEN (1x) |
+| 6 | 11 | 20 | 04-01 W | Edge Computing | OPEN (2x) |
+| 6 | 12 | | 04-06 M | No Class - Easter Monday | N/A |
+| 6 | 12 | 21 | 04-08 M | Student Presentations | None |
+| 6 | 12 | 22 | 04-13 W | Vehicular Networks | OPEN (2x) |
+| 7 | 13 | 23 | 04-15 W | Software Defined Networking | OPEN (2x) |
+| 7 | 14 | 24 | 04-20 M | Security - Intrusion Prevention | OPEN (2x) |
+| 7 | 14 | 25 | 04-22 W | Security - Authentication / Certificates | OPEN (2x) |
+| 7 | 15 | 26 | 04-26 M | Security - DDoS / Network Attacks | Rana + OPEN (1x) |
+| 8 | 15 | 27 | 04-28 W | Final Project Presentations | None |
