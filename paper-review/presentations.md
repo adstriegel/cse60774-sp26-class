@@ -62,7 +62,7 @@ It is also expected that even if you are auditing the course that you do select 
 | 5 | 9 | 16 | 03-18 W | Scalable CDNs | OPEN |
 | 5 | 10 | 17 | 03-23 M | Guest Speaker | None |
 | 5 | 10 | 18 | 03-25 W | ICN / NDN | OPEN (1x) |
-| 6 | 11 | 19 | 03-30 M | Tutorial - Sensor Networks | OPEN (1x) |
+| 6 | 11 | 19 | 03-30 M | Tutorial - Sensor Networks | Francis |
 | 6 | 11 | 20 | 04-01 W | Edge Computing | OPEN (2x) |
 | 6 | 12 | | 04-06 M | No Class - Easter Monday | N/A |
 | 6 | 12 | 21 | 04-08 M | Student Presentations | None |
