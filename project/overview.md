@@ -9,11 +9,13 @@ As described in the syllabus, the following dates are noted for deliverables.
 | Date | Item | Description |
 |---|---|---|
 | 02-20-26 F | Proposal | A one or two paragraph abstract identifying the topic and group composition |
-| 04-01-26 W | Interim Results | In-class presentation for interim results on the project |
+| 04-08-26 W | Interim Results | In-class presentation for interim results on the project |
 | 04-29-26 W | Final Presentation | Final presentations - in class |
 | 05-04-26 M | Final Paper | Final paper due date (may be submitted earlier) |
 
-An optional interim draft of the final paper may be submitted by April 10th for feedback that will be returned in one week.
+An optional interim draft of the final paper may be submitted by April 17th for feedback that will be returned in one week.
+
+**Note:** The interim result presentation and the deadline for providing an interim draft were pushed back by one week to allow for more time after spring break.
 
 ## Project Ideas
 
