@@ -68,7 +68,7 @@ It is also expected that even if you are auditing the course that you do select 
 | 6 | 12 | 21 | 04-08 M | Student Presentations | None |
 | 6 | 12 | 22 | 04-13 W | Vehicular Networks | OPEN (2x) |
 | 7 | 13 | 23 | 04-15 W | Software Defined Networking | OPEN (2x) |
-| 7 | 14 | 24 | 04-20 M | Security - Intrusion Prevention | OPEN (2x) |
+| 7 | 14 | 24 | 04-20 M | Security - Intrusion Prevention | Will + OPEN (1x) |
 | 7 | 14 | 25 | 04-22 W | Security - Authentication / Certificates | OPEN (2x) |
-| 7 | 15 | 26 | 04-26 M | Security - DDoS / Network Attacks | Rana + OPEN (1x) |
-| 8 | 15 | 27 | 04-28 W | Final Project Presentations | None |
+| 7 | 15 | 26 | 04-27 M | Security - DDoS / Network Attacks | Rana, Will + OPEN (Maybe 1x) |
+| 8 | 15 | 27 | 04-29 W | Final Project Presentations | None |
