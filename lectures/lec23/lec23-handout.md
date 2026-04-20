@@ -21,7 +21,7 @@ In Monday's lecture, we wrapped up the content on sensor networks, concluding wi
 
 * Compare / contrast: ITS, DSRC, V2I, V2V, RSU
 * Explain the following terms: real-time, deterministic, deadline
-* Compare / relate: WCMDA, 3G, LTE, 4G, DSRC, WAVE, LOS, NLOS
+* Compare / relate: WCDMA, 3G, LTE, 4G, DSRC, WAVE, LOS, NLOS
 * How do sectorization, power, frequency, the MAC, and hidden terminals relate?
 * Why does scheduling / coordination matter as related to the MAC? How does traffic flow impact these (interstate, urban, suburbs, rural areas)?
 
