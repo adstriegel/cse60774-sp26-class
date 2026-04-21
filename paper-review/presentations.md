@@ -70,5 +70,5 @@ It is also expected that even if you are auditing the course that you do select 
 | 7 | 13 | 23 | 04-15 W | Software Defined Networking | OPEN (2x) |
 | 7 | 14 | 24 | 04-20 M | Security - Intrusion Prevention | Will + OPEN (1x) |
 | 7 | 14 | 25 | 04-22 W | Security - Authentication / Certificates | OPEN (2x) |
-| 7 | 15 | 26 | 04-27 M | Security - DDoS / Network Attacks | Rana, Will + OPEN (Maybe 1x) |
+| 7 | 15 | 26 | 04-27 M | Security - DDoS / Network Attacks | Ben, Obi + OPEN (1x) |
 | 8 | 15 | 27 | 04-29 W | Final Project Presentations | None |
