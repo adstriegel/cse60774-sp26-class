@@ -35,5 +35,5 @@ With the last lecture, we examined network security devices with a specific focu
 | 04-22-26 | Lecture 25 | Authentication / Certificates |
 | | | Student Papers: Open (2x) |
 | 04-27-26 | Lecture 26 | DDoS / Network Attacks |
-| | | Student Papers: Rana, Will, (Open -> 1x) |
+| | | Student Papers: Ben, Obi, (Open -> 1x) |
 | 04-29-26 | Lecture 27 | Final Presentations |
